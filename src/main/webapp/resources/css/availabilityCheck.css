@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+	#availability-div{
+		position:relative;
+	}
+	
+	#check{
+		position : absolute;
+		left: 320px;
+		top: 60px;
+		
+	}
+	
+	#p{
+	font-weight: bold;
+	font-size: 20px;
+	}
